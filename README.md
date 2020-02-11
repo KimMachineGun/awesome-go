@@ -1612,6 +1612,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [hoverfly](https://github.com/SpectoLabs/hoverfly) - HTTP(S) proxy for recording and simulating REST/SOAP APIs with extensible middleware and easy-to-use CLI.
     * [httpmock](https://github.com/jarcoal/httpmock) - Easy mocking of HTTP responses from external resources.
     * [minimock](https://github.com/gojuno/minimock) - Mock generator for Go interfaces.
+    * [Mockc](https://github.com/KimMachineGun/mockc) - Completely type-safe mock generator for Go.
     * [mockhttp](https://github.com/tv42/mockhttp) - Mock object for Go http.ResponseWriter.
     * [timex](https://github.com/cabify/timex) - A test-friendly replacement for the native `time` package.
 
